@@ -1,0 +1,180 @@
+[{
+        "id": "cartucheras",
+        "titulo": "Cartuchera-01",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Cartucheras",
+            "id": "cartucheras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cartucheras",
+        "titulo": "Cartuchera-02",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Cartucheras",
+            "id": "cartucheras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cartucheras",
+        "titulo": "Cartuchera-03",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Cartucheras",
+            "id": "cartucheras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cartucheras",
+        "titulo": "Cartuchera-04",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Cartucheras",
+            "id": "cartucheras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cartucheras",
+        "titulo": "Cartuchera-05",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Cartucheras",
+            "id": "cartucheras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mochilas",
+        "titulo": "Mochila-01",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mochilas",
+        "titulo": "Mochila-02",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mochilas",
+        "titulo": "Mochila-03",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mochilas",
+        "titulo": "Mochila-04",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mochilas",
+        "titulo": "Mochila-05",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mochilas",
+        "titulo": "Mochila-06",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mochilas",
+        "titulo": "Mochila-07",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mochilas",
+        "titulo": "Mochila-08",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "para-el-jardin",
+        "titulo": "para-el-jardin-01",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Para el jardin",
+            "id": "para-el-jardin"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "para-el-jardin",
+        "titulo": "para-el-jardin-02",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Para el jardin",
+            "id": "para-el-jardin"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "para-el-jardin",
+        "titulo": "para-el-jardin-03",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Para el jardin",
+            "id": "para-el-jardin"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "para-el-jardin",
+        "titulo": "para-el-jardin-04",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Para el jardin",
+            "id": "para-el-jardins"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "para-el-jardin",
+        "titulo": "para-el-jardin-05",
+        "imagen": "./img/cartucheras/imagen.png",
+        "categoria": {
+            "nombre": "Para el jardin",
+            "id": "para-el-jardin"
+        },
+        "precio": 1000
+    }]
